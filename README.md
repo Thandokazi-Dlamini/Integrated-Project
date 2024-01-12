@@ -14,3 +14,8 @@ Demographic Factors: Examining demographic data to tailor insurance products to 
 The project leverages a data-driven approach to develop tailored insurance products and targeted marketing strategies. This approach aims to address high unemployment rates and limited market penetration​​, employing economic analysis, demographic profiling, and market penetration strategies​​. It acknowledges the disparities between Africa's global population share and its representation in the insurance industry, emphasizing the need for localized solutions and targeted interventions​​.
 
 The ultimate goal is to develop a sustainable solution that increases the insurance industry's market share in Africa and enhances the financial resilience of the population​​.
+
+- [Presentation: Thandokazi Integrated Project](https://github.com/Thandokazi-Dlamini/Integrated-Project/blob/main/THANDOKAZI%20INTEGRATED%20PROJECT.pptx)
+- [Jupyter Notebook: Thandokazi Integrated Project](https://github.com/Thandokazi-Dlamini/Integrated-Project/blob/main/Thandokazi%20Integrated%20Project.ipynb)
+- [Power BI Dashboard: Thandokazi Power BI Integrated Project](https://github.com/Thandokazi-Dlamini/Integrated-Project/blob/main/Thandokazi%20Power%20BI%20Integrated%20Project.pbix)
+
